@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background: url(./pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#clockContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#clock {
+  font-family: monospace;
+  font-size: 6.5em;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  backdrop-filter: blur(5px);
+  background-color: hsla(0, 0%, 100%, 0.1);
+  width: 100%;
+}

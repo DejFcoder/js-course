@@ -1,0 +1,35 @@
+#myH1 {
+    font-size: 5rem;
+}
+
+#myButton {
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+.myBtns {
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+
+.enabled {
+    background-color: #3700ff;
+    color: #fff;
+}
+
+.hover {
+    box-shadow: 0 0 10px #00000025;
+    font-weight: bold;
+}
+
+.disabled {
+    background-color: rgba(128, 128, 128, 0.103);
+    color: rgba(128, 128, 128, 0.836);
+}

@@ -1,0 +1,1 @@
+numbers.forEach(display);
